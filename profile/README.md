@@ -3,9 +3,9 @@
 
 # PyPortion
 
-PyPortion is an open-source ecosystem designed to accelerate project development and maintain structure consistency across teams and tools.
+PyPortion is an open-source ecosystem designed to `accelerate project development` and `maintain structure consistency` across teams and tools.
 
-Our mission is to make software development faster, cleaner, and more maintainable — from the very first command.
+Our mission is to make software development `faster`, `cleaner`, and `more maintainable`.
 
 ## What is PyPortion?
 PyPortion provides a set of developer tools and libraries to help you kickstart, structure, and scale your projects effortlessly.
